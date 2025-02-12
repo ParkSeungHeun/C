@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\PARKSEUNGHEUN\OneDrive - 창원대학교\바탕 화면\C\C_STL\C_STL\main.cpp(22,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'node'입니다.
+  C_STL.vcxproj -> C:\Users\PARKSEUNGHEUN\OneDrive - 창원대학교\바탕 화면\C\C_STL\x64\Debug\C_STL.exe
